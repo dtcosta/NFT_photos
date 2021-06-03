@@ -6,7 +6,7 @@ With the rise in popularity of NFT art, I wanted to create art that could be auc
 
 This is implemented by optimizing the output image to match the content statistics of the content image and the style statistics of the style reference image. These statistics are extracted from the images using a convolutional network."
 
-For examples, I took three popular Ohio landmarks and transferred abstract expressionists and 1 modern impressionist. Below are the results.
+For examples, I took three popular Ohio landmarks and transferred abstract expressionists and modern impressionist paintings. Below are the results.
 
 ## Original 
 <img src ="Photos/cbus.png" alt="photo" width="300"/>
