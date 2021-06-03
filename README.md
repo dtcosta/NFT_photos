@@ -1,6 +1,6 @@
 # NFT Art Creation 
 
-With the rise in popularity of NFT art, I wanted to create art that could be auctioned off on the Ethereum platform through Solidity. To do this we will be using TensorFlow's style transfer.
+With the rise in popularity of non-fungible tokens, I wanted to create art that could be auctioned off on the Ethereum platform through Solidity. To do this we will be using TensorFlow's style transfer.
 
 "Neural style transfer is an optimization technique used to take two images—a content image and a style reference image (such as an artwork by a famous painter)—and blend them together so the output image looks like the content image, but “painted” in the style of the style reference image.
 
