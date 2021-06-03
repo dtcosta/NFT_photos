@@ -26,5 +26,5 @@ For examples, I took three popular Ohio landmarks and transferred abstract expre
 ## Transfer
 <img src ="Photos/stylized-marblehead.png" alt="nft" width="300"/>
 
-### For further information Nueral style transfers visit the ([Documentation](https://www.tensorflow.org/tutorials/generative/style_transfer))
+For more information on TensorFlow visit the  [documentation ](https://www.tensorflow.org/tutorials/generative/style_transfer "TensorFlow")
 
